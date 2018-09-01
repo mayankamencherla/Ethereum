@@ -6,3 +6,6 @@
 - `contracts`: contains ethereum contracts written using solidity
 - `test`: contains test cases for smart contract deployed on local test network
 - `compile.js`: Compiles smart contract in solidity and returns ABI and bytecode
+
+# Use
+- This project will make for an excellent boilerplate codebase for smart contract development
